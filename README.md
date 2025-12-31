@@ -1,3 +1,4 @@
 # myfirst-repo
 This is my first GitHub Repository.
-By - Asha Sahu
+<br>
+Author- Asha Sahu
